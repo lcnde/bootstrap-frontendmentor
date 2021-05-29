@@ -1,0 +1,28 @@
+:root {
+  --font-gray: #F9FFFF;
+  --background-blue: #1C2230;
+  --background-darkblue: hsl(218, 28%, 13%);
+}
+
+body {
+  color: var(--font-gray);
+  background-color: var(--background-blue);
+  background-image: url("images/bg-curvy-desktop.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header {
+  height: auto;
+}
+
+header #logo {
+  height: 70%;
+}
+
+#primary-button {
+  border-radius: 100px;
+  width: 300px;
+  border: none;
+}

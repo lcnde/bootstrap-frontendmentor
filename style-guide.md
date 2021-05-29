@@ -9,6 +9,7 @@ The designs were created to the following widths:
 
 ## Colors
 
+
 ### Primary
 
 - Dark Blue (intro and email sign up background): hsl(217, 28%, 15%)
